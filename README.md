@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Clean Architecture 🧼
 - 👯 I’m looking to improve my Flutter skills.
 - 🥅 2022 Goals: Learn more about BloC
-- ⚡ Fun fact: Abraham lincoln's dog, Fido, was also assassinated..
+- ⚡ Fun fact: Abraham Lincoln's dog, Fido, was also assassinated..
 
 
 ### Connect with me:
