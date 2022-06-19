@@ -1,11 +1,11 @@
 # Hi there, I'm Maneesha 👋 
 
-## I'm a 21 year old, Developer, Student!!
+## I'm a 21 year old, Developer and Student!!
 
 - 🌱 I’m currently learning Clean Architecture 🧼
 - 👯 I’m looking to improve my Flutter skills.
 - 🥅 2022 Goals: Learn more about BloC
-- ⚡ Fun fact: I fell off a balcony when I was a child and broke my leg.
+- ⚡ Fun fact: Abraham lincoln's dog, fido, was also assassinated..
 
 ### Connect with me:
 
