@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Clean Architecture 🧼
 - 👯 I’m looking to improve my Flutter skills.
-- 🥅 2022 Goals: Learn more about BloC
+- 🥅 2023 Goals: Learn more about UI/UX
 - ⚡ Fun fact: Abraham Lincoln's dog, Fido, was also assassinated.
 
 ### Languages and Tools:
