@@ -3,9 +3,8 @@
 ## I'm a 21 year old, Developer and Student!!
 
 - 🌱 I’m currently learning Clean Architecture 🧼
-- 👯 I’m looking to improve my Flutter skills.
-- 🥅 2023 Goals: Learn more about UI/UX
-- ⚡ Fun fact: Abraham Lincoln's dog, Fido, was also assassinated.
+- 👯 I’m looking to improve my coding skills in various web technologies.
+- 🥅 2023 Goals: Learn more about UI/UX and web frameworks
 
 ### Languages and Tools:
 
