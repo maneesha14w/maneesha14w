@@ -1,13 +1,19 @@
-# Hi there, I'm Maneesha 👋 
+# Hello, I'm Maneesha 👋 
+### I'm a 21 year old Developer.
 
-## I'm a 21 year old, Developer and Student!!
+</br>
+<details>
+ <summary> 
+    Goals for 2023
+ </summary>
+- 🌱 I’m currently learning React. </br>
+- 👯 I’m looking to improve my coding skills in various web technologies and web frameworks..</br>
+</details>
 
-- 🌱 I’m currently learning Clean Architecture 🧼
-- 👯 I’m looking to improve my coding skills in various web technologies.
-- 🥅 2023 Goals: Learn more about UI/UX and web frameworks
+---
 
 ### Languages and Tools:
-
+</br></br>
 <img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
@@ -18,23 +24,22 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<br />
+<br /></br>
 <br />
 
 ---
-<details>
-[website]: https://maneesha14w.github.io/portfolio/
+
+### Socials
+
+Website: https://maneesha14w.github.io/portfolio/
   
-[twitter]: https://twitter.com/maneesha14w
+Twitter: https://twitter.com/dev_maneesha
 
-[instagram]: https://www.instagram.com/maneesha.01/
+LinkedIn: https://www.linkedin.com/in/maneesha14w/
 
-[linkedin]: https://www.linkedin.com/in/maneesha14w/
-
-</details>
 ---
