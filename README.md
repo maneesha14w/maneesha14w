@@ -29,8 +29,12 @@
 ---
 <details>
 [website]: https://maneesha14w.github.io/portfolio/
+  
 [twitter]: https://twitter.com/maneesha14w
+
 [instagram]: https://www.instagram.com/maneesha.01/
+
 [linkedin]: https://www.linkedin.com/in/maneesha14w/
-<details>
+
+</details>
 ---
