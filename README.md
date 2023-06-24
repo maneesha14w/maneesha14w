@@ -7,7 +7,7 @@
     Goals for 2023
  </summary>
 - 🌱 I’m currently learning React. </br>
-- 👯 I’m looking to improve my coding skills in various web technologies and web frameworks..</br>
+- 👯 I’m looking to improve my coding skills in various web technologies and web frameworks.</br>
 </details>
 
 ---
