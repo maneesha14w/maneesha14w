@@ -138,7 +138,6 @@
       />
       <br /><strong>Azure</strong>
     </td>
-      <br /><strong>Flutter</strong>
     </td>
   </tr>
 </table>
