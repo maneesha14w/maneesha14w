@@ -138,7 +138,6 @@
       />
       <br /><strong>Azure</strong>
     </td>
-    </td>
   </tr>
 </table>
 
