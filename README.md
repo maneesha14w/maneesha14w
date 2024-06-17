@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Maneesha and I'm a Frontend Engineer who loves to work with JavaScript technologies.  I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Maneesha and I'm an engineer who loves to work with a multitude of technologies.  I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/maneesha14w/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
