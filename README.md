@@ -73,15 +73,15 @@
         alt="Flutter"
       />
       <br /><strong>Flutter</strong>
-                  </td>
-          <td align="center" height="108" width="108">
+    </td>
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
         width="48"
         height="48"
         alt="Flutter"
       />
-      <br /><strong>Go</strong>
+      <br /><strong>Go</strong> -->
   </tr>
     
   <tr>
