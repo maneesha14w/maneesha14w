@@ -74,14 +74,14 @@
       />
       <br /><strong>Flutter</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
+          <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
         width="48"
         height="48"
-        alt="Flutter"
+        alt="Swift"
       />
-      <br /><strong>Go</strong> -->
+      <br /><strong>Swift</strong>
   </tr>
     
   <tr>
@@ -148,6 +148,14 @@
       />
       <br /><strong>Azure</strong>
     </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Go"
+      />
+      <br /><strong>Go</strong>
   </tr>
 </table>
 
